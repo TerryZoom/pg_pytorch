@@ -1,5 +1,5 @@
 """
-ResNet16网络模型实现
+ResNet18网络模型实现
 这是一个简化版的ResNet18网络，用于处理单通道图像输入（如MNIST数据集、FashionMNIST数据集）
 
 关键函数参数说明：
